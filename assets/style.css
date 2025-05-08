@@ -1,0 +1,8 @@
+input,
+textarea {
+  outline: none;
+}
+
+.themed-button {
+  transition: background-color 0.6s cubic-bezier(0.19, 1, 0.22, 1);
+}

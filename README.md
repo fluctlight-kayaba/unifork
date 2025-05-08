@@ -14,3 +14,7 @@ As Unistyles require Native Module that is not officially supported by Expo (sam
 ## Bundle (for e.g Extension)
 
 - `npx expo export --platform web` which generate `./dist` 
+
+## Demo
+
+![Demonstration](./assets/record.mp4)

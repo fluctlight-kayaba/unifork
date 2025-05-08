@@ -10,3 +10,7 @@ As Unistyles require Native Module that is not officially supported by Expo (sam
 - `npm run ios` for iOS
 - `npm run ios` for Android
 - `npm run web` for Browser
+
+## Bundle (for e.g Extension)
+
+- `npx expo export --platform web` which generate `./dist` 
